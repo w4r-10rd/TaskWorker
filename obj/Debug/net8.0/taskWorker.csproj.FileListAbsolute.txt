@@ -1,0 +1,14 @@
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\bin\Debug\net8.0\taskWorker.exe
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\bin\Debug\net8.0\taskWorker.deps.json
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\bin\Debug\net8.0\taskWorker.runtimeconfig.json
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\bin\Debug\net8.0\taskWorker.dll
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\bin\Debug\net8.0\taskWorker.pdb
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\obj\Debug\net8.0\taskWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\obj\Debug\net8.0\taskWorker.AssemblyInfoInputs.cache
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\obj\Debug\net8.0\taskWorker.AssemblyInfo.cs
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\obj\Debug\net8.0\taskWorker.csproj.CoreCompileInputs.cache
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\obj\Debug\net8.0\taskWorker.dll
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\obj\Debug\net8.0\refint\taskWorker.dll
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\obj\Debug\net8.0\taskWorker.pdb
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\obj\Debug\net8.0\taskWorker.genruntimeconfig.cache
+C:\Users\ariji\OneDrive\Documents\code\taskWorker\obj\Debug\net8.0\ref\taskWorker.dll
